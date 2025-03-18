@@ -1,0 +1,174 @@
+{
+    "financial_analysis_team\ndate_avg": 3.0,
+    "financial_analysis_team\ndate_min": 3.0,
+    "financial_analysis_team\ndate_max": 3.0,
+    "revenue_avg": 712571.8333333334,
+    "revenue_min": 901.0,
+    "revenue_max": 4250000.0,
+    "net_profit_avg": 825000.0,
+    "net_profit_min": 825000.0,
+    "net_profit_max": 825000.0,
+    "profit_margin_avg": 19.0,
+    "profit_margin_min": 19.0,
+    "profit_margin_max": 19.0,
+    "operating_expenses_avg": 189665.16666666666,
+    "operating_expenses_min": 630.0,
+    "operating_expenses_max": 1125000.0,
+    "customer_acquisition_cost_avg": 202.84833333333336,
+    "customer_acquisition_cost_min": 123.74,
+    "customer_acquisition_cost_max": 271.33,
+    "customer_lifetime_value_avg": 457.6666666666667,
+    "customer_lifetime_value_min": 114.0,
+    "customer_lifetime_value_max": 1250.0,
+    "date_avg": 4.8,
+    "date_min": 1.0,
+    "date_max": 10.0,
+    "k\nnet_profit_avg": 721.2,
+    "k\nnet_profit_min": 245.0,
+    "k\nnet_profit_max": 2112.0,
+    "k\nprofit_margin_avg": 15.4,
+    "k\nprofit_margin_min": 5.0,
+    "k\nprofit_margin_max": 29.0,
+    "k\ncustomer_count_avg": 4973.4,
+    "k\ncustomer_count_min": 1909.0,
+    "k\ncustomer_count_max": 9319.0,
+    "financial_analysis_team\ndate_trend": {
+        "values": {
+            "2023-03": 3.0,
+            "2024-09": NaN,
+            "2024-10": NaN,
+            "2025-01": NaN,
+            "2025-02": NaN
+        },
+        "change": NaN,
+        "pct_change": NaN
+    },
+    "revenue_trend": {
+        "values": {
+            "2023-03": 4250000.0,
+            "2024-09": 5672.0,
+            "2024-10": 4569.0,
+            "2025-01": 901.0,
+            "2025-02": 7144.5
+        },
+        "change": -4242855.5,
+        "pct_change": -99.83189411764705
+    },
+    "net_profit_trend": {
+        "values": {
+            "2023-03": 825000.0,
+            "2024-09": NaN,
+            "2024-10": NaN,
+            "2025-01": NaN,
+            "2025-02": NaN
+        },
+        "change": NaN,
+        "pct_change": NaN
+    },
+    "profit_margin_trend": {
+        "values": {
+            "2023-03": 19.0,
+            "2024-09": NaN,
+            "2024-10": NaN,
+            "2025-01": NaN,
+            "2025-02": NaN
+        },
+        "change": NaN,
+        "pct_change": NaN
+    },
+    "operating_expenses_trend": {
+        "values": {
+            "2023-03": 1125000.0,
+            "2024-09": 3247.0,
+            "2024-10": 2352.0,
+            "2025-01": 630.0,
+            "2025-02": 3381.0
+        },
+        "change": -1121619.0,
+        "pct_change": -99.69946666666667
+    },
+    "customer_acquisition_cost_trend": {
+        "values": {
+            "2023-03": 125.0,
+            "2024-09": 266.88,
+            "2024-10": 271.33,
+            "2025-01": 194.1,
+            "2025-02": 179.89
+        },
+        "change": 54.889999999999986,
+        "pct_change": 43.91199999999999
+    },
+    "customer_lifetime_value_trend": {
+        "values": {
+            "2023-03": 1250.0,
+            "2024-09": 114.0,
+            "2024-10": 208.0,
+            "2025-01": 382.0,
+            "2025-02": 396.0
+        },
+        "change": -854.0,
+        "pct_change": -68.32000000000001
+    },
+    "date_trend": {
+        "values": {
+            "2023-03": NaN,
+            "2024-09": 9.0,
+            "2024-10": 10.0,
+            "2025-01": 1.0,
+            "2025-02": 2.0
+        },
+        "change": NaN,
+        "pct_change": NaN
+    },
+    "k\nnet_profit_trend": {
+        "values": {
+            "2023-03": NaN,
+            "2024-09": 510.0,
+            "2024-10": 345.0,
+            "2025-01": 245.0,
+            "2025-02": 1253.0
+        },
+        "change": NaN,
+        "pct_change": NaN
+    },
+    "k\nprofit_margin_trend": {
+        "values": {
+            "2023-03": NaN,
+            "2024-09": 9.0,
+            "2024-10": 7.0,
+            "2025-01": 27.0,
+            "2025-02": 17.0
+        },
+        "change": NaN,
+        "pct_change": NaN
+    },
+    "k\ncustomer_count_trend": {
+        "values": {
+            "2023-03": NaN,
+            "2024-09": 2504.0,
+            "2024-10": 1909.0,
+            "2025-01": 6447.0,
+            "2025-02": 7003.5
+        },
+        "change": NaN,
+        "pct_change": NaN
+    },
+    "anomalies": [
+        {
+            "index": 0,
+            "column": "metric_revenue",
+            "value": 4250000.0,
+            "z_score": 2.041239641255461,
+            "mean": 712571.8333333334,
+            "std": 1732980.3395798136
+        },
+        {
+            "index": 0,
+            "column": "metric_operating_expenses",
+            "value": 1125000.0,
+            "z_score": 2.0412352960275877,
+            "mean": 189665.16666666666,
+            "std": 458219.9980343139
+        }
+    ]
+}

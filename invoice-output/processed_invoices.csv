@@ -1,0 +1,7 @@
+invoice_number,date,vendor,total_amount,line_item_count
+123,2023-03-18,ACME Corp INVOICE,150.0,0
+123,2025-01-31,TechSolutions Inc. INVOICE,204.0,0
+124,2025-01-13,Global Logistics Ltd. INVOICE,105.0,0
+125,2025-02-21,CreativeDesign Studios INVOICE,250.0,0
+126,2024-12-23,Professional Services Group INVOICE,204.0,0
+127,2025-02-11,EcoFriendly Manufacturing INVOICE,192.0,0
