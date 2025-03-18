@@ -13,7 +13,7 @@ A Python tool for extracting structured data from PDF files (like invoices or re
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/abhiya492/pdf-data-extraction-tool.git
    cd pdf_analyzer
    ```
 
@@ -29,13 +29,13 @@ The tool has two main modes: invoice processing and report processing.
 ### Processing Invoices
 
 ```bash
-python src/main.py --type invoice --input /path/to/invoice/pdfs --output /path/to/output
+python src/main.py --type invoice --input sample_pdfs/invoices --output invoice-output
 ```
 
 ### Processing Reports
 
 ```bash
-python src/main.py --type report --input /path/to/report/pdfs --output /path/to/output
+python src/main.py --type report --input sample_pdfs/reports --output report-output
 ```
 
 ## Output
