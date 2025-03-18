@@ -1,0 +1,103 @@
+[
+    {
+        "title": "Financial Performance Report",
+        "date": "03/18/2023",
+        "summary": "",
+        "key_metrics": {
+            "Financial Analysis Team\nDate": 3.0,
+            "Revenue": 4250000.0,
+            "Net Profit": 825000.0,
+            "Profit Margin": 19.0,
+            "Operating Expenses": 1125000.0,
+            "Customer Acquisition Cost": 125.0,
+            "Customer Lifetime Value": 1250.0
+        },
+        "tables": [],
+        "filename": "sample_report.pdf"
+    },
+    {
+        "title": "Quarterly Financial Performance",
+        "date": "02/04/2025",
+        "summary": "",
+        "key_metrics": {
+            "Date": 2.0,
+            "Revenue": 6993.0,
+            "K\nNet Profit": 394.0,
+            "K\nProfit Margin": 5.0,
+            "Operating Expenses": 2768.0,
+            "K\nCustomer Count": 9319.0,
+            "Customer Acquisition Cost": 123.74,
+            "Customer Lifetime Value": 492.0
+        },
+        "tables": [],
+        "filename": "sample_report_1.pdf"
+    },
+    {
+        "title": "Annual Market Analysis",
+        "date": "02/19/2025",
+        "summary": "",
+        "key_metrics": {
+            "Date": 2.0,
+            "Revenue": 7296.0,
+            "K\nNet Profit": 2112.0,
+            "K\nProfit Margin": 29.0,
+            "Operating Expenses": 3994.0,
+            "K\nCustomer Count": 4688.0,
+            "Customer Acquisition Cost": 236.04,
+            "Customer Lifetime Value": 300.0
+        },
+        "tables": [],
+        "filename": "sample_report_2.pdf"
+    },
+    {
+        "title": "Customer Satisfaction Survey Results",
+        "date": "01/10/2025",
+        "summary": "",
+        "key_metrics": {
+            "Date": 1.0,
+            "Revenue": 901.0,
+            "K\nNet Profit": 245.0,
+            "K\nProfit Margin": 27.0,
+            "Operating Expenses": 630.0,
+            "K\nCustomer Count": 6447.0,
+            "Customer Acquisition Cost": 194.1,
+            "Customer Lifetime Value": 382.0
+        },
+        "tables": [],
+        "filename": "sample_report_3.pdf"
+    },
+    {
+        "title": "Product Development Progress",
+        "date": "10/04/2024",
+        "summary": "",
+        "key_metrics": {
+            "Date": 10.0,
+            "Revenue": 4569.0,
+            "K\nNet Profit": 345.0,
+            "K\nProfit Margin": 7.0,
+            "Operating Expenses": 2352.0,
+            "K\nCustomer Count": 1909.0,
+            "Customer Acquisition Cost": 271.33,
+            "Customer Lifetime Value": 208.0
+        },
+        "tables": [],
+        "filename": "sample_report_4.pdf"
+    },
+    {
+        "title": "Operations Efficiency Report",
+        "date": "09/19/2024",
+        "summary": "",
+        "key_metrics": {
+            "Date": 9.0,
+            "Revenue": 5672.0,
+            "K\nNet Profit": 510.0,
+            "K\nProfit Margin": 9.0,
+            "Operating Expenses": 3247.0,
+            "K\nCustomer Count": 2504.0,
+            "Customer Acquisition Cost": 266.88,
+            "Customer Lifetime Value": 114.0
+        },
+        "tables": [],
+        "filename": "sample_report_5.pdf"
+    }
+]

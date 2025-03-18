@@ -1,0 +1,17 @@
+{
+    "total_spend": 150.0,
+    "average_invoice_amount": 150.0,
+    "max_invoice_amount": 150.0,
+    "min_invoice_amount": 150.0,
+    "vendor_count": 1,
+    "top_vendors": {
+        "ACME Corp INVOICE": 1
+    },
+    "top_vendors_by_spend": {
+        "ACME Corp INVOICE": 150.0
+    },
+    "monthly_totals": {
+        "2023-03": 150.0
+    },
+    "anomalies": []
+}

@@ -1,0 +1,29 @@
+{
+    "total_spend": 1105.0,
+    "average_invoice_amount": 184.16666666666666,
+    "max_invoice_amount": 250.0,
+    "min_invoice_amount": 105.0,
+    "vendor_count": 6,
+    "top_vendors": {
+        "ACME Corp INVOICE": 1,
+        "TechSolutions Inc. INVOICE": 1,
+        "Global Logistics Ltd. INVOICE": 1
+    },
+    "top_vendors_by_spend": {
+        "CreativeDesign Studios INVOICE": 250.0,
+        "Professional Services Group INVOICE": 204.0,
+        "TechSolutions Inc. INVOICE": 204.0
+    },
+    "monthly_totals": {
+        "2023-03": 150.0,
+        "2024-12": 204.0,
+        "2025-01": 309.0,
+        "2025-02": 442.0
+    },
+    "monthly_change": {
+        "2024-12": 36.00000000000001,
+        "2025-01": 51.470588235294116,
+        "2025-02": 43.04207119741101
+    },
+    "anomalies": []
+}

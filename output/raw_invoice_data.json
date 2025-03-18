@@ -1,0 +1,10 @@
+[
+    {
+        "invoice_number": "123",
+        "date": "03/18/2023",
+        "total_amount": 150.0,
+        "vendor": "ACME Corp INVOICE",
+        "line_items": [],
+        "filename": "sample_invoice.pdf"
+    }
+]

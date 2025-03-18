@@ -1,0 +1,2 @@
+invoice_number,date,vendor,total_amount,line_item_count
+123,2023-03-18,ACME Corp INVOICE,150.0,0

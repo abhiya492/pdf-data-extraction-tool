@@ -1,0 +1,50 @@
+[
+    {
+        "invoice_number": "123",
+        "date": "03/18/2023",
+        "total_amount": 150.0,
+        "vendor": "ACME Corp INVOICE",
+        "line_items": [],
+        "filename": "sample_invoice.pdf"
+    },
+    {
+        "invoice_number": "123",
+        "date": "01/31/2025",
+        "total_amount": 204.0,
+        "vendor": "TechSolutions Inc. INVOICE",
+        "line_items": [],
+        "filename": "sample_invoice_1.pdf"
+    },
+    {
+        "invoice_number": "124",
+        "date": "01/13/2025",
+        "total_amount": 105.0,
+        "vendor": "Global Logistics Ltd. INVOICE",
+        "line_items": [],
+        "filename": "sample_invoice_2.pdf"
+    },
+    {
+        "invoice_number": "125",
+        "date": "02/21/2025",
+        "total_amount": 250.0,
+        "vendor": "CreativeDesign Studios INVOICE",
+        "line_items": [],
+        "filename": "sample_invoice_3.pdf"
+    },
+    {
+        "invoice_number": "126",
+        "date": "12/23/2024",
+        "total_amount": 204.0,
+        "vendor": "Professional Services Group INVOICE",
+        "line_items": [],
+        "filename": "sample_invoice_4.pdf"
+    },
+    {
+        "invoice_number": "127",
+        "date": "02/11/2025",
+        "total_amount": 192.0,
+        "vendor": "EcoFriendly Manufacturing INVOICE",
+        "line_items": [],
+        "filename": "sample_invoice_5.pdf"
+    }
+]

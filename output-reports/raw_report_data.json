@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Financial Performance Report",
+        "date": "03/18/2023",
+        "summary": "",
+        "key_metrics": {
+            "Financial Analysis Team\nDate": 3.0,
+            "Revenue": 4250000.0,
+            "Net Profit": 825000.0,
+            "Profit Margin": 19.0,
+            "Operating Expenses": 1125000.0,
+            "Customer Acquisition Cost": 125.0,
+            "Customer Lifetime Value": 1250.0
+        },
+        "tables": [],
+        "filename": "sample_report.pdf"
+    }
+]
